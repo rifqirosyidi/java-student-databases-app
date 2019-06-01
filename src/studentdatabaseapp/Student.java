@@ -55,10 +55,6 @@ public class Student {
 		System.out.println("TUITION BALANCE : " + tuitionBalance);
 	}
 	
-	// View balance
-	
-	// Pay tuition
-	
 	// Show Status
 	
 }
